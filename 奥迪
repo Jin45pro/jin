@@ -1,0 +1,1 @@
+本地WindUI=loadstring(游戏：HttpGet("https://pastefy.app/ddceJmmm/raw"))()WindUI:popup({Title="👑尊贵的"..game.Players.LocalPlayer.DisplayName.."用户"，图标="信息"，内容="欢迎使用宿傩脚本"，buttons={{Title="取消"，callback=函数()结束，Variant="第三"，}，{Title="执行"，
